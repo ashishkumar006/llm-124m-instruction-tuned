@@ -1,0 +1,364 @@
+====================================================================================================
+MODEL INFERENCE COMPARISON REPORT
+====================================================================================================
+
+Generated: 2026-03-08 11:22:57
+Device: cpu
+Settings: {'max_tokens': 200, 'temperature': 0.8, 'top_p': 0.95}
+Test prompts: 8
+
+====================================================================================================
+
+
+====================================================================================================
+TEST #1
+====================================================================================================
+
+📝 PROMPT:
+Explain the process of photosynthesis.
+
+----------------------------------------------------------------------------------------------------
+📖 ORIGINAL MODEL OUTPUT:
+----------------------------------------------------------------------------------------------------
+[INST] Explain the process of photosynthesis. [/INST]
+Related Internet Resources
+- Photosynthesis is the first step in the growth of plants.
+- Photosynthesis is the first step in the production of food.
+- Photosynthesis is the first step in the fermentation of carbohydrates.
+- Photosynthesis is the first step in the production of ATP.
+- Photosynthesis is the first step in the production of growth hormone.
+- Photosynthesis is the first step in the growth of plants.
+- Photosynthesis is the first step in the development of plant tissues.
+- Photosynthesis is the first step in the formation of carbohydrates.
+- Photosynthesis is the first step in the growth of carbohydrates.
+- Photosynthesis is the first step in the growth of fruits.
+- Photosynthesis is the first step in the growth of plants.
+- Photosynthesis is the first step in the growth of carbohydrates.
+- Photosynthesis is the first step in the growth of carbohydrates.
+- Photosynthesis is the first step in the growth of plants
+
+----------------------------------------------------------------------------------------------------
+✨ INSTRUCTION-TUNED MODEL OUTPUT:
+----------------------------------------------------------------------------------------------------
+[INST] Explain the process of photosynthesis. [/INST]
+Photosynthesis is a vital process that produces carbohydrates, proteins, and other compounds that help plants convert sunlight into energy. As the sun heats up, the chlorophyll in the chloroplasts in the chloroplasts dies, allowing the plant to produce food. This process is the key to plants' ability to survive in the harsh environment of their surroundings.
+
+Photosynthesis plays a crucial role in the production of carbohydrates, proteins, and other compounds that help plants use sunlight to produce energy. In fact, some plants are more efficient than others by producing glucose and oxygen, which can provide energy for the plants.
+
+The process of photosynthesis is also essential for plants to survive in their environment. The chloroplasts of the plant convert sunlight into energy, allowing them to grow and produce products, such as chlorophyll and foraminifera.
+
+Photosynthesis is also essential for aquatic life, including fish, such as salmon, tuna, and turtles. The light levels in the
+
+
+====================================================================================================
+TEST #2
+====================================================================================================
+
+📝 PROMPT:
+What are the main benefits of regular exercise?
+
+----------------------------------------------------------------------------------------------------
+📖 ORIGINAL MODEL OUTPUT:
+----------------------------------------------------------------------------------------------------
+[INST] What are the main benefits of regular exercise? [/INST]
+Up to 70% of adults will benefit from regular exercise for at least 10 days a week, and most of this benefit will be passed on to their children. Regular exercise also helps prevent chronic health problems, including heart disease, diabetes, high blood pressure, and obesity.
+That said, there are some key health benefits associated with regular exercise:
+- it helps prevent or delay the onset of disease, such as heart disease, diabetes, and high blood pressure.
+- it helps lower your blood pressure, improve your blood sugar, and reduce blood sugar surges.
+- it helps you feel better about yourself, helping you overcome depression, anxiety, and anger.
+- it helps reduce stress and improve sleep.
+- it helps you feel more energetic, smarter, and more confident.
+- it helps you feel more confident, too.
+- it helps you feel healthier overall.
+- it is very effective at lowering blood pressure, improving blood pressure, and lowering triglycerides.
+-
+
+----------------------------------------------------------------------------------------------------
+✨ INSTRUCTION-TUNED MODEL OUTPUT:
+----------------------------------------------------------------------------------------------------
+[INST] What are the main benefits of regular exercise? [/INST]
+Regular exercise can significantly enhance your overall health and well-being. It enhances physical activity by reducing stress and improving overall health, while enhancing mental health. Regular exercise can also boost your immune system, improve overall health, and support your overall health.
+
+Regular physical activity can boost your cardiovascular health by strengthening the heart and increasing the blood pressure, which can help prevent blood clots and improve the heart muscle. Additionally, regular physical activity can boost your mood and increase your energy levels, making it easier to manage stress and find ways to manage your emotions more effectively.
+
+Exercise also helps to boost your immune system by promoting better sleep quality and reducing the risk of common chronic diseases. Engaging in physical activity can also enhance the mood and promote overall well-being. Additionally, regular physical activity can also help manage symptoms of depression and anxiety, which can significantly affect your overall well-being.
+
+Additionally, regular physical activity can boost your physical function by reducing the risk of chronic diseases like
+
+
+====================================================================================================
+TEST #3
+====================================================================================================
+
+📝 PROMPT:
+Write a short poem about nature.
+
+----------------------------------------------------------------------------------------------------
+📖 ORIGINAL MODEL OUTPUT:
+----------------------------------------------------------------------------------------------------
+[INST] Write a short poem about nature. [/INST]
+- 2. Explain the symbols of the rivers and their inhabitants in the symbols of the rivers.
+- 3. Which symbols are used to represent the rivers?
+- 4. Which of the following is a list of symbols that were used by the Indians of the river?
+- 5. Which of the following is a picture of the river?
+- 6. Which of the following is a list of symbols that were used by the Indians of the river?
+- 7. How many rivers are in the river?
+- 8. Which of the following is a list of symbols that were used by the Indians of the river?
+- 9. Which of the following is a list of symbols that were used by the Indians of the river?
+- 10. Which of the following is a list of symbols that were used by the Indians of the river?
+- 11. What were the names of the rivers?
+- 12. Which of the following was a list of symbols that
+
+----------------------------------------------------------------------------------------------------
+✨ INSTRUCTION-TUNED MODEL OUTPUT:
+----------------------------------------------------------------------------------------------------
+[INST] Write a short poem about nature. [/INST]
+The gentle breeze blew across the dusty roadside, a chill that'd softened the steel beneath its feet, and a chill that'd calm the wind that'd crept in, and a chill that'd calm the earth, lifting the sky above. The air was thick with the scent of myrrh, the scent of which had been a constant companion for thousands of years, and the air was gentle and soothing.
+
+I could hear the hum of the wind, and the gentle sound of the trees lapping against the gentle breeze, as it parched the fabric of my life. I listened, and the world around me seemed to be in a constant state of flux, one cycle of change and transformation.
+
+I felt the deep promise of life in the depths of the ocean, and the soft gentle breeze of the ocean's depths, whispering in my ears the whispers of life beneath my feet. It was a reminder of the power of life, and the power of keeping it moving, to
+
+
+====================================================================================================
+TEST #4
+====================================================================================================
+
+📝 PROMPT:
+Solve this problem: If a train travels 120 km in 2 hours, what is its average speed?
+
+----------------------------------------------------------------------------------------------------
+📖 ORIGINAL MODEL OUTPUT:
+----------------------------------------------------------------------------------------------------
+[INST] Solve this problem: If a train travels 120 km in 2 hours, what is its average speed? [/INST]
+Now we need to find the average speed. Because the train passes every 60 km, we need to find the average speed of the train.
+The following figure shows the average speed.
+The following figure shows the average speed of the train.
+An additional figure shows the average speed of the train.
+The following figure shows the average speed of the train.
+An additional figure shows the average speed of the train.
+The following figure shows the average speed of the train.
+An additional figure shows the average speed of the train.
+This picture shows the average speed of the train.
+The following figure shows the average speed of the train.
+A more detailed picture of the average speed can be seen in the following figure.
+An additional figure shows the average speed of the train.
+The following figure shows the average speed of the train.
+An additional figure shows the average speed of the train.
+The following figure shows the average speed of the train.
+A further
+
+----------------------------------------------------------------------------------------------------
+✨ INSTRUCTION-TUNED MODEL OUTPUT:
+----------------------------------------------------------------------------------------------------
+[INST] Solve this problem: If a train travels 120 km in 2 hours, what is its average speed? [/INST]
+To find the average speed of the train, we first need to calculate the total distance it takes to cross a bridge of 120 km in 2 hours.
+
+Total distance = 120 km
+Time = 2 hours
+Speed = 2 km/h
+
+Speed = Total distance / Speed
+Speed = 120 km / 2 hours
+Speed = 12 km/h
+
+Now, we know the train travels 120 km in 2 hours. We can use the formula for distance, which is:
+
+Distance = Speed × Time
+
+Plugging in the values, we get:
+
+Distance = 120 km / 2 hours
+Distance = 18 km
+
+Therefore, the train travels 18 km in 2 hours. Since the train takes 2 hours to cross the bridge, we can say that it takes the train 18 minutes to cross the bridge.
+
+To find the average speed, we need to consider the time taken by the train to cover all the lengths of the bridge. We know the total
+
+
+====================================================================================================
+TEST #5
+====================================================================================================
+
+📝 PROMPT:
+What is the capital of France?
+
+----------------------------------------------------------------------------------------------------
+📖 ORIGINAL MODEL OUTPUT:
+----------------------------------------------------------------------------------------------------
+[INST] What is the capital of France? [/INST]
+How to Become a French Consul
+- Most people in France are French citizens and have decided to become a French consul. French consul will want to become a French citizen in France.
+- The French government would like to appoint a person who would be a French consul in France. This person would be a French consul.
+- The first thing you need to do in France is to go to France. There are several programs that you can get in France. Some of these programs are:
+- French programs in Switzerland: French and Switzerland are both countries that are French and Switzerland are both countries. The French are both countries that are not French.
+- French programs in Germany: German and Switzerland are both countries that are French. German and Switzerland are both countries that are French.
+- French schools in Switzerland: French and Switzerland are both countries that are not French.
+- French colleges in France: French and Switzerland are both countries that are French.
+- French
+
+----------------------------------------------------------------------------------------------------
+✨ INSTRUCTION-TUNED MODEL OUTPUT:
+----------------------------------------------------------------------------------------------------
+[INST] What is the capital of France? [/INST]
+The capital of France is Paris. Paris is a hub of cultural, historical, and cultural activities. It is a city renowned for its art, history, and culture, making it a fascinating place to study, travel, and experience.
+
+Paris is also home to some of the most iconic landmarks in France, including the Eiffel Tower, the iconic King James Bible, and the Notre-Dame Cathedral. Paris also boasts the 7th-century Bordeaux culture, with some famous landmarks in the city.
+
+Paris is also home to the Cinque Rorigo, a cultural hub that has become a popular destination for locals and tourists alike. This city has been the center of French culture and art, and it is a hub of cultural and natural history.
+
+Paris also boasts the iconic monuments of the city, including the Cathedral of Notre-Dame, Notre-Dame Cathedral, and the Montmartre Cathedral. In addition, Paris has the top-
+
+
+====================================================================================================
+TEST #6
+====================================================================================================
+
+📝 PROMPT:
+Describe quantum computing in simple terms.
+
+----------------------------------------------------------------------------------------------------
+📖 ORIGINAL MODEL OUTPUT:
+----------------------------------------------------------------------------------------------------
+[INST] Describe quantum computing in simple terms. [/INST]
+The following is the abbreviated version of this blog post: https://www.physicalzoom.com/blog/2016/09/14/the-difference-between-quantum-powers-and-stochastics-now/
+The word “quantum”, for instance, is a bit more precise, but “S”, a bit more ambiguous, is used to describe the nature of a “quantum”, and is used when talking about “quantum” in everyday speech, especially when describing the “molecular” or “quantum” in the context of quantum computing.
+Quantum computing is also a term for the non-quantum form of a quantum system. In the sense of quantum computing, the word “quantum” is used to refer to the fact that one can also write quantum systems in a “quantum”. In the context of quantum
+
+----------------------------------------------------------------------------------------------------
+✨ INSTRUCTION-TUNED MODEL OUTPUT:
+----------------------------------------------------------------------------------------------------
+[INST] Describe quantum computing in simple terms. [/INST]
+Quantum computing is a field that combines two of the most fundamental concepts in computing: classical and quantum.
+
+Principals have begun to realize the potential applications of quantum computing in the field of computing. In the late 1960s, for example, physicist John Bellinger discovered the electrons in nature, a concept that has deep implications in quantum computing. It was here that he discovered the electrons and predicted the behavior of quantum bits, which are bits of space-time that can be mapped in real-time.
+
+Quantum computing has its roots in the early days of computer science, where scientists were interested in the smallest possible unit of quantum computing, say the researchers. In the 1960s, the field of quantum computing was centered around the observation of quantum fluctuations, which are the fluctuations in electrons and other particles that occur in nature.
+
+In the late 1970s, the Japanese physicist Shinyoung Ohrenson confirmed that quantum bits were very sensitive to the oscillations of electrons, making
+
+
+====================================================================================================
+TEST #7
+====================================================================================================
+
+📝 PROMPT:
+List three renewable energy sources.
+
+----------------------------------------------------------------------------------------------------
+📖 ORIGINAL MODEL OUTPUT:
+----------------------------------------------------------------------------------------------------
+[INST] List three renewable energy sources. [/INST]
+There is one goal of renewable energy production, just like renewables.
+As we can see, solar power is important in its own right. It provides electricity to your home and your car for instance.
+But when we look at the solar energy system we will see that solar panels are the most efficient. We will also see that solar panels can provide solar power to your home and your car.
+The solar panels are an efficient way to power your home. They are able to provide solar power to your home for instance.
+Solar power is a renewable source of energy and it is more than just a solar energy source. It is a renewable source of energy and you can use it to power your home.
+
+----------------------------------------------------------------------------------------------------
+✨ INSTRUCTION-TUNED MODEL OUTPUT:
+----------------------------------------------------------------------------------------------------
+[INST] List three renewable energy sources. [/INST]
+1. Hydroelectric power
+2. Solar energy
+3. Solar thermal energy
+4. Solar thermal energy
+5. Renewable energy
+6. Renewable energy
+7. Industrial energy
+8. Renewable energy
+9. Renewable energy
+10. Renewable energy
+
+1. Greenhouse gas (GHG)
+
+2. Biofuels
+
+1. Ethanol
+
+2. ethanol
+
+3. Methanol
+
+2. Ethanol
+
+3. Hydrogen
+
+3. Hydrogen
+
+4. Nitrogen
+
+5. Nitrogen
+
+6. Hydrogen
+
+7. Nitrogen
+
+8. Hydrogen
+
+9. Renewable energy
+
+7. Nuclear energy
+
+8. Renewable energy
+
+8. Nuclear energy
+
+9. Nuclear energy
+
+9. Nuclear energy
+
+10. Hydrogen
+
+11. Nuclear energy
+
+
+10. Hydrogen
+
+11
+
+
+====================================================================================================
+TEST #8
+====================================================================================================
+
+📝 PROMPT:
+How does the internet work?
+
+----------------------------------------------------------------------------------------------------
+📖 ORIGINAL MODEL OUTPUT:
+----------------------------------------------------------------------------------------------------
+[INST] How does the internet work? [/INST]
+- What is the difference between traditional, hybrid and open source? [/INST]
+- What are the types of web applications? [/INST]
+- What are the advantages of web applications? [/INST]
+- What are the advantages of technology? [/INST]
+- How does the internet work? [/INST]
+- What are the disadvantages of mobile? [/INST]
+- What are the advantages of social media? [/INST]
+- What are the disadvantages of social media? [/INST]
+- What are the disadvantages of social media? [/INST]
+- What are the disadvantages of web applications? [/INST]
+- What are the disadvantages of Social Media? [/INST]
+- What are the disadvantages of social media? [/INST]
+- What are the disadvantages of social media? [/INST]
+- What are the disadvantages of social media? [/INST]
+- What are the disadvantages of social media? [/INST]
+- What are the disadvantages
+
+----------------------------------------------------------------------------------------------------
+✨ INSTRUCTION-TUNED MODEL OUTPUT:
+----------------------------------------------------------------------------------------------------
+[INST] How does the internet work? [/INST]
+The internet is a digital library that allows users to access information and services from anywhere in the world. It's a secure and efficient way to access and use digital media, including digital files, networks, and networking solutions. 
+
+The internet has several components that help to facilitate communication and provide a seamless and interactive experience for users. The most significant ones are:
+
+The internet can be accessed through various digital channels like email, Twitter, Facebook, and Twitter. The internet can also provide the ability to connect with other users, share files, and collaborate on projects.
+
+The user can access the internet through various channels like email, phone calls, and online forums. The user can also access various platforms like YouTube, Facebook, and Instagram.
+
+The internet has a wide range of services, including streaming videos, email, and downloads, allowing users to access the internet in a more convenient and convenient way.
+
+In terms of usability, the internet has a wide range of features
+

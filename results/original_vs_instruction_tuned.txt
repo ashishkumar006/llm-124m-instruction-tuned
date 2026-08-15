@@ -1,0 +1,168 @@
+======================================================================
+ORIGINAL vs INSTRUCTION-TUNED MODEL COMPARISON
+======================================================================
+
+
+======================================================================
+Test 1: Photosynthesis
+======================================================================
+
+Instruction: Explain photosynthesis in simple terms.
+
+--- ORIGINAL MODEL ---
+Transported oxygen to the atmosphere. During CO2 starvation, the plants overcome the
+carbon dioxide emissions that were CO2 absorbing by the plants and the
+food chain. This results in the plant producing more CO2. The
+loss of carbon accounting for an ability of plants to utilize stored
+carbon dioxide in the form of CO2 , therefore, is the primary
+correlation between CO2 production and other energy production
+in the biosphere.
+Feeding process. The feeding of plant food directly directly by
+sources of CO2 . The rate of this process is influenced by the
+pressure ‎ of the plants . The process of photosynthesis is a
+process that uses oxygen to produce oxygen , thus, the rate of
+feedback to the plants is higher than the rate of respiration.
+Brooming. The feeding of plants by wet plants with
+water which is fed to them by wet plants.
+4. Radiation. The human body must convert neutrons into
+
+--- INSTRUCTION-TUNED MODEL ---
+Photosynthesis is a crucial step in the production of carbohydrates from the glucose in the carbon dioxide (H2CO2) and water (H2O) in the light-water (usually green) and oxygen in the air. The glucose in the blood is the primary source of energy for the body, and it is consumed by various tissues, most notably the eye and stomach.
+
+The Calvin cycle takes several weeks to work, and the energy from the sunlight goes out into the plant tissues, allowing the plant to produce glucose, which can be used as the source of energy. This process is called the Calvin-Dietary Tepsis, and it is a crucial step in the process of photosynthesis, as it allows the plant to maintain a steady supply of energy for a longer period of time.
+
+Photosynthesis is a vital step for humans as it provides the energy for the plant to flourish and flourish. It consists of the conversion of glucose from the dark-water into the
+
+——————————————————————————————————————————————————————————————————————
+
+======================================================================
+Test 2: Benefits of Exercise
+======================================================================
+
+Instruction: List 3 benefits of exercise.
+
+--- ORIGINAL MODEL ---
+3. Benefits of Exercise
+Exercise is one of the most important non-invasive ways to achieve one’s health goals. The body requires natural energy to function properly and this simple and efficient system also keeps you from getting sick. Thus, there are many benefits of exercise.
+- Free radicals: Free radicals are the harmful substances that are formed during the aging process. They are natural and harmless particles which are made up of oxygen, hydrogen, nitrogen and oxygen.
+- Heart health: Exerts tension in the blood vessels. This also reduces oxygen intake.
+- Reduction in blood pressure: The body is forced to supply sodium and carbon dioxide with a low amount of sodium. Therefore, there is a lower blood pressure compared to high blood pressure.
+- Reduce stress: Exercise increases the flow of blood and oxygen to the muscles.
+- Heart health: Exercise reduces the risk of heart attacks. It decreases the risk of stroke.
+- Reduce the risk of hypertension: Exercise
+
+--- INSTRUCTION-TUNED MODEL ---
+Exercise is a powerful tool for achieving and Hydro-Paid fitness goals. Not only that but it can also enhance your overall health and wellness. From burning calories to boosting muscle production to building muscle, exercise is a powerful tool for weight management. 
+
+It has been found that when a person burns more calories per hour, they are more likely to burn more calories. This can be particularly beneficial in the context of working out, as it can lead to overall reduced health and wellness. Moreover, it can also improve metabolic health, reducing the risk of heart disease and diabetes. Therefore, it's not just about burning calories but also about building muscle, which is essential for long-term physical health and wellness.
+
+It also supports weight management by burning calories. Research has shown that exercise can improve blood sugar levels by up to 60% when it is burning calories, with a significant impact on insulin levels and liver health. This is particularly relevant for individuals who are subject to diabetes or metabolic
+
+——————————————————————————————————————————————————————————————————————
+
+======================================================================
+Test 3: Poem about Nature
+======================================================================
+2
+Instruction: Write a short poem about nature.
+
+--- ORIGINAL MODEL ---
+-Image: Andy Blackett, Science Writer, University of Colorado
+-1.5 Billion Suns, 1 Million Cancriquets, 2.5 Billion Suns, and 1,400,000 Suns
+-2.6 Billion Suns, 1 Billion Suns, 1 Billion Suns and 1,800,000 Suns
+-1.4 Billion Suns, 1 Billion Suns
+-1.3 Billion Suns, 1 Billion Suns, 1 Billion Suns, and 1,500,000 Suns
+-1.5 Billion Suns, 1 Billion Suns
+-1.6 Billion Suns, 1 Billion Suns
+-1.7 Billion Suns, 1 Billion Suns
+-1.8 Billion Suns, 1 Billion Suns
+-1.9 Billion Suns, 1 Billion Suns
+-1.1 Billion Suns, 1 Billion Suns
+-1.2 Billion Suns, 1 Billion Suns, 1 Billion Suns
+-1.5 Billion Suns, 1 Billion Suns
+-1.6 Billion Suns, 1
+
+--- INSTRUCTION-TUNED MODEL ---
+The beauty of nature lies in the delicate balance that exists between the elements. It provides a rich tapestry of life, shaping the natural world and providing food and shelter for those who seek it. The delicate balance of nature is often undervalued, but it brings a glow of hope and creative insight to the world.
+
+In a world that is constantly evolving, the delicate balance of nature plays a vital role in protecting human life and creating a balance that will help sustain the inhabitants of this world. The beauty of nature is rooted in the immense diversity of life, and it is this diversity that makes it so that we can thrive in today's rapidly changing world.
+
+Here's a revised version with some suggested edits for clarity, grammar, and style:
+
+The beauty of nature lies in the delicate balance between our lives and the natural world. It offers a rich tapestry of life, enriching the delicate balance of nature and ensuring that the tranquility of this world continues to
+
+——————————————————————————————————————————————————————————————————————
+
+======================================================================
+Test 4: Math Problem
+======================================================================
+
+Instruction: Solve this step by step.
+Input: If 5 apples cost $10, how much do 8 apples cost?
+
+--- ORIGINAL MODEL ---
+This beginner's tutorial directs the user to buy an apple card or two. On the next screen should be the price of the apple.
+The example above shows how to peel rind of apples.
+The apple just needs to be delivered to the customer right away.
+Utilize the app and make sure it lists the best apples to buy.
+The information in the app should be explained by the user.
+Disposable Apple Cards are not approved for sale.
+Make sure iOS should be used by the user, and follow the orange-colored lines perfectly.
+Apple Card Sort
+The Apple Card Sort is a function that is used to sort the apples. You can use it to sort the apples.
+The Apple Card Sort is a part of Windows 2000 and is used to sort the apples.
+Apple Card Sort is a function that is used to sort the apple.
+In the Apple Card Sort, the user specifies the number of apples and the marketing number of the apple
+
+--- INSTRUCTION-TUNED MODEL ---
+To find out how much you cost 8 apples, we can use the formula:
+
+Number of apples = (Number of items) * 100
+
+To find the cost of 8 apples, we divide the total cost by the number of items:
+
+Number of apples = $10 / 8
+
+Number of apples = 2
+
+So, 8 apples cost 2 dollars.
+
+Now, we can calculate the cost of 8 apples by dividing the total cost by the number of items:
+
+Cost of 8 apples = Total cost / Number of items
+Cost of 8 apples = $10 / 2
+Cost of 8 apples = $17.7
+
+Therefore, you have to pay $17.7 for 2 apples.
+
+If you have 8 apples, you can find the cost of 8 apples by dividing the total cost by the number of items:
+
+Cost of 8 apples = Total cost / Number of items
+Cost of 8 apples = $17.7 /
+
+——————————————————————————————————————————————————————————————————————
+
+======================================================================
+Test 5: Capital Question
+======================================================================
+
+Instruction: What is the capital of France?
+
+--- ORIGINAL MODEL ---
+- The Paris Comm condemned the price increase of food by the French delegate, Robespierre: “… let’s look at it from another angle.”
+“It is the same with food.”
+The Comm condemned the price of wheat: “If we were to take out the wheat and cut the price, our bread would be in the same state as the bread that was in the oven.”
+The Comm condemned the price increase of food by the French delegate, Robespierre: “You can eat all the bread that you have, but you can’t eat the bread that you have for the whole world.”
+The Comm condemned the price increase of food, saying: comedy!
+“The French had cut the price of wheat,” said the Comm. “I’ve written them down; I make them cut prices, and they cut prices, and when you see the price increase they
+
+--- INSTRUCTION-TUNED MODEL ---
+The capital of France is Paris. It is a prominent city in the northern U.S. and a popular tourist attraction in the U.S. state of New England. Paris's capital is Paris's capital city, and nationwide, it is a major tourist destination for many people visiting.
+
+Paris has a rich history in the U.S. and is known for its historical landmarks and historical sites. One of the earliest historical landmarks in the U.S. was the dedication of a cathedral in 1881, which was just outside Paris.
+
+Paris is famous for the architecture and art of its prominent place in the U.S. Capitol. It is also a popular destination for anglers, and it is also famous for its nightmarish accommodations and waterfront towns.
+
+Paris has a rich history in the arts and culture in the U.S., with the Olympic Games being the most widely celebrated event in the world. It also has significant cultural and social events, such as
+
+——————————————————————————————————————————————————————————————————————
